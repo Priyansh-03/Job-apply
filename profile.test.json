@@ -1,0 +1,20 @@
+{
+  "first_name": "Priyansh",
+  "last_name": "Srivastava",
+  "email": "test@example.com",
+  "phone": "+91 90000 00000",
+  "resume_path": "/tmp/dummy_resume.pdf",
+  "cover_letter_path": "",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/yourhandle",
+    "github": "https://github.com/yourhandle",
+    "portfolio": "",
+    "website": ""
+  },
+  "location": "Bengaluru, India",
+  "extra_fields": {
+    "How did you hear about this job?": "LinkedIn",
+    "Are you legally authorized to work?": "Yes",
+    "Will you require sponsorship?": "No"
+  }
+}
