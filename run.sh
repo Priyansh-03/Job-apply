@@ -11,7 +11,7 @@ set -euo pipefail
 # Always run from this script's own directory so the `humanize` import resolves.
 cd "$(dirname "$0")"
 
-DEFAULT_URL="https://job-boards.greenhouse.io/greenhouse/jobs/7982414?gh_jid=7982412"
+DEFAULT_URL="https://job-boards.greenhouse.io/greenhouse/jobs/8021661?gh_jid=8021661"
 URL="${1:-$DEFAULT_URL}"
 
 # Prefer python3; fall back to python.
